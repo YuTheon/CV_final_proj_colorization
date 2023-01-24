@@ -1,4 +1,6 @@
 # CV_final_proj_colorization
+**unforunate I deleted our works all before I submit them successfully**
+
 run prepare_data.py to resize and central crop images to 256*256
 
 ```sh
